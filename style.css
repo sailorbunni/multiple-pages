@@ -1,0 +1,19 @@
+body {
+  background: #f1e8a7;
+  text-align: center;
+}
+h1 {
+  font-size: 48px;
+  color: #91755d;
+}
+a {
+  color: #61b292;
+  margin: 15px;
+}
+img {
+  margin: 15px;
+}
+p {
+  color: #a8896c;
+  margin: 20px;
+}
